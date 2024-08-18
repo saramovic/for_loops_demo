@@ -12,7 +12,8 @@ public class ForLoops {
 
 //problem: if you copy and paste this statement 100 times, it'll print out 100 "I love dogs!" output in console but what if you wanted to printout a specific big number like 690 times.
 
-/*Certainly! Let’s go through each line of your Java program to understand what it does:
+/*
+Certainly! Let’s go through each line of your Java program to understand what it does:
 
 ### Code Explanation:
 
@@ -104,4 +105,5 @@ public class ForLoops {
 - The program starts with the `main` method.
 - It runs a `for` loop that starts at `i = 0` and continues as long as `i < 691`.
 - Inside the loop, it prints "I love dogs!" to the console.
-- The loop runs 691 times, so the message is printed 691 times. */
+- The loop runs 691 times, so the message is printed 691 times. 
+*/
