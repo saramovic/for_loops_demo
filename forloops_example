@@ -50,3 +50,5 @@ Certainly! Let’s go through each line of your Java program to understand what 
    - Since the loop runs 691 times, `"I love dogs!"` will be printed 691 times.
 
 6. Closing braces `}`:
+   - These mark the end of the `for` loop, `main` method, and class.
+*/
